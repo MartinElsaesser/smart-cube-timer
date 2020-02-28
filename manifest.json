@@ -10,72 +10,72 @@
 	"icons": [
 		{
 			"src": "icons/cube-16x16.png",
-			"size": "16x16",
+			"sizes": "16x16",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-32x32.png",
-			"size": "32x32",
+			"sizes": "32x32",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-57x57.png",
-			"size": "57x57",
+			"sizes": "57x57",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-60x60.png",
-			"size": "60x60",
+			"sizes": "60x60",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-72x72.png",
-			"size": "72x72",
+			"sizes": "72x72",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-76x76.png",
-			"size": "76x76",
+			"sizes": "76x76",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-96x96.png",
-			"size": "96x96",
+			"sizes": "96x96",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-114x114.png",
-			"size": "114x114",
+			"sizes": "114x114",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-120x120.png",
-			"size": "120x120",
+			"sizes": "120x120",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-144x144.png",
-			"size": "144x144",
+			"sizes": "144x144",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-152x152.png",
-			"size": "152x152",
+			"sizes": "152x152",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-180x180.png",
-			"size": "180x180",
+			"sizes": "180x180",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-192x192 .png",
-			"size": "192x192",
+			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/cube-512x512.png",
-			"size": "512x512",
+			"sizes": "512x512",
 			"type": "image/png"
 		}
 	]
