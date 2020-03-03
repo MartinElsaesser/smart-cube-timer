@@ -23,7 +23,7 @@ const urlsToCache = [
 	'/smart-cube-timer/icons/cube-152x152.png',
 	'/smart-cube-timer/icons/cube-16x16.png',
 	'/smart-cube-timer/icons/cube-180x180.png',
-	'/smart-cube-timer/icons/cube-192x192 .png',
+	'/smart-cube-timer/icons/cube-192x192.png',
 	'/smart-cube-timer/icons/cube-32x32.png',
 	'/smart-cube-timer/icons/cube-512x512.png',
 	'/smart-cube-timer/icons/cube-57x57.png',
