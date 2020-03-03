@@ -3,7 +3,7 @@
 	"short_name": "Timer",
 	"description": "Smart Cube Timer for reconstructing your solves.",
 	"theme_color": "#9c27b0",
-	"background_color": "#9c27b0",
+	"background_color": "#6f1c7d",
 	"display": "standalone",
 	"scope": "/smart-cube-timer/",
 	"start_url": "/smart-cube-timer/",
